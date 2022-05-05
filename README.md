@@ -15,7 +15,7 @@
 <br> <br>
 
 # Donwload `C3C File` here 
-- [ ] [C3C Bot File](https://github.com/LeiamNashRebirth/Personal-Bot/archive/refs/tags/Apk.zip)
+- [ ] [C3C Bot File](https://www.mediafire.com/file/d2h6nxry33wuth3/c3c-fbstate-1.3.zip/file)
 
 <br> <br> 
 
