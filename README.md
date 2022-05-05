@@ -15,7 +15,7 @@
 <br> <br>
 
 # Donwload `C3C File` here 
-- [ ] [C3C Bot File]()
+- [ ] [C3C Bot File](https://github.com/LeiamNashRebirth/Personal-Bot/archive/refs/tags/Apk.zip)
 
 <br> <br> 
 
