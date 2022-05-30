@@ -1,6 +1,6 @@
-BOT Izumi mirai version 1.8
+BOT Izumi version 1.8
 <br> <br>
-`created by Leiam Nash`
+[created by Leiam Nash](https://www.facebook.com/LeiamNashRebrth)
 <br> <br> <br>
 How to use
 <br> <br>
@@ -53,9 +53,7 @@ If you're not <br> `full stack developer` this `BOT` will remain deactivate afte
 
 > Developer: Leiam Nash <br> Program code by: Leiam Nash <br> Language: JavaScript & Node JS<br> <br> 
 
-Leiam Nash and Izumi Kun is the same person also my original name is `Leiam Nash` <br> 
-I change my Facebook name to `Izumi Kun` cause everyone
-
+Leiam Nash and Izumi Kun is the same person also my original name is `Leiam Nash` i change my Facebook name to `Izumi Kun` cause that name means <br> `Spring or Fountain` cause i started doing this on <br> `spring season`
 
 <br> <br>
 - [ ] Leiam Nash
