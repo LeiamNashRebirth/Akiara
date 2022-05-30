@@ -53,7 +53,8 @@ If you're not <br> `full stack developer` this `BOT` will remain deactivate afte
 
 > Developer: Leiam Nash <br> Program code by: Leiam Nash <br> Language: JavaScript & Node JS<br> <br> 
 
-Leiam Nash and Izumi Kun is the same person also my name is `Leiam Nash` <br> Facebook nicknamed me as <br> `Izumi Kun` cause a lot of developer knows my name `leiam nash`
+Leiam Nash and Izumi Kun is the same person also my original name is `Leiam Nash` <br> 
+I change my Facebook name to `Izumi Kun` cause everyone
 
 
 <br> <br>
