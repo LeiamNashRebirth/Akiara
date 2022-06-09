@@ -1,4 +1,4 @@
-BOT Izumi version 1.8
+Messenger Support Akiara ver 1.3.0
 <br> <br>
 [created by Leiam Nash](https://www.facebook.com/LeiamNashRebrth)
 <br> <br> <br>
